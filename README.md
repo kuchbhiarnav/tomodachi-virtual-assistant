@@ -1,0 +1,2 @@
+# tomodachi-virtual-assistant
+To deal with the daily chores and hectic lifestyle we have created a virtual assistant . Its name is Tomodachi . Imagine how easier it would be to know about anything using the Wikipedia as it searches without opening the web browsers, and performing many other daily tasks like playing music, surfing   youtube ,opening online classes , getting to know the time, etc with the help of a single voice command using Python. 
